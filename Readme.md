@@ -1,3 +1,6 @@
+<img width="474" height="478" alt="image" src="https://github.com/user-attachments/assets/6fdcf665-a627-430c-9c40-529654e214ba" />
+
+
 # **Predição de Churn**
 
 ## **1\. Introdução**
