@@ -43,8 +43,6 @@ Na modelagem, foram treinados diferentes algoritmos — Árvore de Decisão, Reg
 
   * matplotlib, seaborn → visualização e análise gráfica
 
-* **Ambiente:** Google Colab / Jupyter Notebook
-
 ## **6\. Resultados**
 
 O modelo LightGBM foi escolhido como o campeão, apresentando excelente desempenho na previsão de churn. Ele se destacou pela alta AUC, confirmando sua capacidade discriminativa, além de consistência em métricas como KS e Gini, o que indica robustez e ausência de overfitting. Outro ponto relevante foi a redução de falsos positivos, que permite direcionar ações de retenção de forma mais eficiente, evitando custos desnecessários com clientes que não apresentam risco real de cancelamento. O pipeline completo garante reprodutibilidade, já que todos os artefatos foram salvos em arquivos .pkl, e pode ser facilmente aplicado em novos conjuntos de clientes para apoiar a tomada de decisões estratégicas da empresa.
